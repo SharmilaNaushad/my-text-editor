@@ -1,0 +1,33 @@
+button{
+    border: none;
+    background: none;
+    height: 70px;
+    outline: none;
+
+
+}
+
+button:hover{
+    background: #f54141;
+    
+
+
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap:20px;
+    align-items: center;
+     
+}
+ 
+
+#cEditor{
+    max-width: 1000px;
+    height:500px;
+    border:1px solid black;
+    margin: 20px auto;
+    padding: 20px;
+}
